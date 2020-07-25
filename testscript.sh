@@ -1,4 +1,4 @@
 echo "From GITHUB!"
 NUMBER=$((NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "COMPLETE..........more.."
+echo "COMPLETE..........more.remote."
